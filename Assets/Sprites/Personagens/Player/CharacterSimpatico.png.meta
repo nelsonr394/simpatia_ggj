@@ -1,0 +1,415 @@
+fileFormatVersion: 2
+guid: e7ce1e1813abb9d4a8c73413f5a62044
+timeCreated: 1454144674
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: CharacterSimpatico_0
+    21300002: CharacterSimpatico_1
+    21300004: CharacterSimpatico_2
+    21300006: CharacterSimpatico_3
+    21300008: CharacterSimpatico_4
+    21300010: CharacterSimpatico_5
+    21300012: CharacterSimpatico_6
+    21300014: CharacterSimpatico_7
+    21300016: CharacterSimpatico_8
+    21300018: CharacterSimpatico_9
+    21300020: CharacterSimpatico_10
+    21300022: CharacterSimpatico_13
+    21300024: CharacterSimpatico_14
+    21300026: CharacterSimpatico_15
+    21300028: CharacterSimpatico_16
+    21300030: CharacterSimpatico_18
+    21300032: CharacterSimpatico_19
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -3
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: CharacterSimpatico_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 319
+        width: 55
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -12.5, y: 36}
+        - {x: -20.5, y: 13}
+        - {x: -20.5, y: -33}
+        - {x: -19.5, y: -36}
+        - {x: 20.5, y: -36}
+        - {x: 22.5, y: -35}
+        - {x: 22.5, y: 32}
+        - {x: 20.5, y: 36}
+    - name: CharacterSimpatico_1
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 318
+        width: 45
+        height: 73
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 15.5, y: 36.5}
+        - {x: -12.5, y: 36.5}
+        - {x: -21.5, y: 33.5}
+        - {x: -21.5, y: -36.5}
+        - {x: 3.5, y: -36.5}
+        - {x: 17.5, y: -13.5}
+        - {x: 21.5, y: -3.5}
+        - {x: 21.5, y: 19.5}
+    - name: CharacterSimpatico_2
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 318
+        width: 45
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -3.5, y: 36}
+        - {x: -13.5, y: 30}
+        - {x: -21.5, y: -14}
+        - {x: -21.5, y: -32}
+        - {x: -19.5, y: -36}
+        - {x: 12.5, y: -36}
+        - {x: 22.5, y: -5}
+        - {x: 22.5, y: 21}
+        - {x: 17.5, y: 36}
+    - name: CharacterSimpatico_3
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 318
+        width: 53
+        height: 73
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -11.5, y: 36.5}
+        - {x: -26.5, y: -8.5}
+        - {x: -26.5, y: -36.5}
+        - {x: 26.5, y: -36.5}
+        - {x: 26.5, y: 36.5}
+    - name: CharacterSimpatico_4
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 314
+        width: 59
+        height: 77
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -7.5, y: 38.5}
+        - {x: -13.5, y: 35.5}
+        - {x: -23.5, y: 8.5}
+        - {x: -23.5, y: -0.5}
+        - {x: -20.5, y: -3.5}
+        - {x: -29.5, y: -17.5}
+        - {x: -29.5, y: -27.5}
+        - {x: 1.5, y: -35.5}
+        - {x: 19.5, y: -35.5}
+        - {x: 29.5, y: -30.5}
+        - {x: 29.5, y: 28.5}
+        - {x: 24.5, y: 38.5}
+    - name: CharacterSimpatico_5
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 316
+        width: 49
+        height: 75
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 19.5, y: 30.5}
+        - {x: 16.5, y: 37.5}
+        - {x: -5.5, y: 37.5}
+        - {x: -13.5, y: 30.5}
+        - {x: -24.5, y: -18.5}
+        - {x: -24.5, y: -31.5}
+        - {x: -17.5, y: -35.5}
+        - {x: 16.5, y: -35.5}
+        - {x: 21.5, y: -24.5}
+        - {x: 23.5, y: -7.5}
+        - {x: 23.5, y: 19.5}
+    - name: CharacterSimpatico_6
+      rect:
+        serializedVersion: 2
+        x: 313
+        y: 320
+        width: 50
+        height: 71
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 22, y: -0.5}
+        - {x: 22, y: 26.5}
+        - {x: 19, y: 35.5}
+        - {x: -19, y: 35.5}
+        - {x: -25, y: 12.5}
+        - {x: -25, y: -35.5}
+        - {x: 11, y: -35.5}
+        - {x: 12, y: -33.5}
+        - {x: 12, y: -28.5}
+        - {x: 16, y: -14.5}
+    - name: CharacterSimpatico_7
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 232
+        width: 44
+        height: 73
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -4, y: 35.5}
+        - {x: -16, y: 29.5}
+        - {x: -22, y: -12.5}
+        - {x: -22, y: -31.5}
+        - {x: -16, y: -36.5}
+        - {x: 4, y: -36.5}
+        - {x: 22, y: -13.5}
+        - {x: 22, y: 18.5}
+        - {x: 15, y: 35.5}
+    - name: CharacterSimpatico_8
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 232
+        width: 57
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 20.5, y: -15}
+        - {x: 27.5, y: -6}
+        - {x: 28.5, y: -5}
+        - {x: 28.5, y: 17}
+        - {x: 16.5, y: 35}
+        - {x: -18.5, y: 35}
+        - {x: -28.5, y: 2}
+        - {x: -28.5, y: -35}
+        - {x: 11.5, y: -35}
+        - {x: 24.5, y: -29}
+        - {x: 23.5, y: -20}
+    - name: CharacterSimpatico_9
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 232
+        width: 57
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -9.5, y: 36}
+        - {x: -22.5, y: 30}
+        - {x: -28.5, y: -11}
+        - {x: -28.5, y: -29}
+        - {x: -21.5, y: -31}
+        - {x: -4.5, y: -36}
+        - {x: 18.5, y: -36}
+        - {x: 27.5, y: -25}
+        - {x: 27.5, y: 18}
+        - {x: 18.5, y: 36}
+    - name: CharacterSimpatico_10
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 232
+        width: 53
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -7.5, y: 35}
+        - {x: -17.5, y: 32}
+        - {x: -26.5, y: -6}
+        - {x: -26.5, y: -30}
+        - {x: -25.5, y: -31}
+        - {x: -19.5, y: -35}
+        - {x: 26.5, y: -35}
+        - {x: 26.5, y: 35}
+    - name: CharacterSimpatico_13
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 232
+        width: 42
+        height: 74
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 6, y: 37}
+        - {x: -7, y: 37}
+        - {x: -21, y: 32}
+        - {x: -21, y: -37}
+        - {x: 21, y: -37}
+        - {x: 21, y: 24}
+        - {x: 12, y: 36}
+    - name: CharacterSimpatico_14
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 145
+        width: 47
+        height: 66
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 15.5, y: 33}
+        - {x: -12.5, y: 33}
+        - {x: -20.5, y: 12}
+        - {x: -20.5, y: -25}
+        - {x: -17.5, y: -33}
+        - {x: 11.5, y: -33}
+        - {x: 16.5, y: -10}
+        - {x: 20.5, y: 0}
+        - {x: 20.5, y: 30}
+    - name: CharacterSimpatico_15
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 142
+        width: 44
+        height: 77
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -12, y: -38.5}
+        - {x: 11, y: -38.5}
+        - {x: 19, y: -24.5}
+        - {x: 19, y: 38.5}
+        - {x: -20, y: 38.5}
+        - {x: -21, y: 36.5}
+        - {x: -21, y: -17.5}
+    - name: CharacterSimpatico_16
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 141
+        width: 40
+        height: 82
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -6, y: 41}
+        - {x: -18, y: 35}
+        - {x: -18, y: -41}
+        - {x: 8, y: -41}
+        - {x: 20, y: -18}
+        - {x: 20, y: 36}
+        - {x: 16, y: 41}
+    - name: CharacterSimpatico_18
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 142
+        width: 44
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 21, y: 17}
+        - {x: 16, y: 31}
+        - {x: 10, y: 37}
+        - {x: 6, y: 40}
+        - {x: -4, y: 40}
+        - {x: -17, y: 33}
+        - {x: -21, y: 27}
+        - {x: -21, y: -6}
+        - {x: -15, y: -34}
+        - {x: -9, y: -38}
+        - {x: -4, y: -40}
+        - {x: 4, y: -40}
+        - {x: 14, y: -19}
+        - {x: 17, y: -10}
+        - {x: 21, y: 4}
+    - name: CharacterSimpatico_19
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 143
+        width: 47
+        height: 68
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -3.5, y: 33}
+        - {x: -20.5, y: 26}
+        - {x: -22.5, y: 19}
+        - {x: -22.5, y: -16}
+        - {x: -18.5, y: -34}
+        - {x: 22.5, y: -34}
+        - {x: 22.5, y: 31}
+        - {x: 19.5, y: 33}
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
